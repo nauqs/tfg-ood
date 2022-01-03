@@ -1,0 +1,7 @@
+emnist              NA
+matplotlib          3.3.4
+numpy               1.19.2
+pandas              1.2.3
+seaborn             0.11.1
+sklearn             0.24.1
+tensorflow          2.4.1
