@@ -1,0 +1,76 @@
+top5
+  epsilon=0
+    fold 1 AUROC: 0.79152
+    fold 2 AUROC: 0.74123
+    fold 3 AUROC: 0.76215
+  Mean AUROC: 0.7649666666666667
+
+  epsilon=0.0005
+    fold 1 AUROC: 0.81317
+    fold 2 AUROC: 0.73956
+    fold 3 AUROC: 0.77444
+  Mean AUROC: 0.7757233333333332
+
+  epsilon=0.001
+    fold 1 AUROC: 0.73091
+    fold 2 AUROC: 0.72369
+    fold 3 AUROC: 0.70588
+  Mean AUROC: 0.72016
+
+max
+  epsilon=0
+    fold 1 AUROC: 0.7532
+    fold 2 AUROC: 0.73044
+    fold 3 AUROC: 0.74152
+  Mean AUROC: 0.7417199999999999
+
+  epsilon=0.0005
+    fold 1 AUROC: 0.77267
+    fold 2 AUROC: 0.69533
+    fold 3 AUROC: 0.73684
+  Mean AUROC: 0.7349466666666666
+
+  epsilon=0.001
+    fold 1 AUROC: 0.6835
+    fold 2 AUROC: 0.72342
+    fold 3 AUROC: 0.64888
+  Mean AUROC: 0.6852666666666667
+
+weighted
+  epsilon=0
+    fold 1 AUROC: 0.8045
+    fold 2 AUROC: 0.7661
+    fold 3 AUROC: 0.77406
+  Mean AUROC: 0.7815533333333334
+
+  epsilon=0.0005
+    fold 1 AUROC: 0.80184
+    fold 2 AUROC: 0.73227
+    fold 3 AUROC: 0.77645
+  Mean AUROC: 0.7701866666666667
+
+  epsilon=0.001
+    fold 1 AUROC: 0.70527
+    fold 2 AUROC: 0.72498
+    fold 3 AUROC: 0.67791
+  Mean AUROC: 0.7027199999999999
+
+avg
+  epsilon=0
+    fold 1 AUROC: 0.77464
+    fold 2 AUROC: 0.7524
+    fold 3 AUROC: 0.73218
+  Mean AUROC: 0.7530733333333334
+
+  epsilon=0.0005
+    fold 1 AUROC: 0.79821
+    fold 2 AUROC: 0.7184
+    fold 3 AUROC: 0.76764
+  Mean AUROC: 0.7614166666666668
+
+  epsilon=0.001
+    fold 1 AUROC: 0.74164
+    fold 2 AUROC: 0.71216
+    fold 3 AUROC: 0.69948
+  Mean AUROC: 0.7177600000000001
+
